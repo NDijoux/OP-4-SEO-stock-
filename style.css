@@ -1040,3 +1040,7 @@ h4 {
         text-align: center;
     }
 }
+
+div.col-sm-4 a {
+    margin: 48px 48px 48px 0px;
+}
